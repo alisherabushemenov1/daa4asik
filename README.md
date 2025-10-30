@@ -1,8 +1,8 @@
 # Assignment 4: Graph Algorithms Analysis Report
 ## Smart City Task Scheduling
 
-**Author:** Alisher Abushemenov  
-**Date:** October 2025  
+**Student:** Alisher Abushemenov  
+**Date:** 30 October 2025  
 **Repository:** [github.com/alisherabushemenov1/daa4asik](https://github.com/alisherabushemenov1/daa4asik)
 
 ---
